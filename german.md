@@ -1,5 +1,5 @@
 # Mullvad-VPN-on-Fritz-Box
-Diese Anleitung zeigt Ihnen, wie Sie Mulvad VPN auf Ihrer Fritz!Box installieren.
+Diese Anleitung zeigt Ihnen, wie Sie Mullvad VPN auf Ihrer Fritz!Box installieren.
 
 ## WireGuard datei Runterladen:
 1. Rufen Sie den [WireGuard](https://mullvad.net/de/account/#/wireguard-config)-Konfigurationsdateigenerator auf.<br>
