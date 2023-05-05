@@ -1,5 +1,5 @@
 # Mullvad-VPN-on-Fritz-Box
-This guide will show you how to install Mulvad VPN on your Fritz!Box.
+This guide will show you how to install Mullvad VPN on your Fritz!Box.
 
 ### Translations
 [German](https://github.com/DedBash/Mullvad-VPN-on-Fritz-Box/blob/main/german.md)
