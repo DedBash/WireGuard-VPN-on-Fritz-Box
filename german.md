@@ -24,6 +24,9 @@ Diese Anleitung zeigt Ihnen, wie Sie Mullvad VPN auf Ihrer Fritz!Box installiere
 ![image](https://user-images.githubusercontent.com/79027536/236585074-9e301c4d-70e4-452d-836f-25a8d1ef8094.png)
 ![image](https://user-images.githubusercontent.com/79027536/236586374-39ffffc1-07af-400d-a658-c3aaf6d70aa2.png)
 
+## INFO: 
+Wenn Sie diesen Bildschirm sehen, überprüfen Sie noch einmal, ob Sie Internet haben und bei myFritz registriert sind, und laden Sie die Seite dann neu. 
+![image](https://user-images.githubusercontent.com/79027536/236620526-502ce7ba-0468-499b-b19f-8de2d2e8803a.png)
 
 
 
