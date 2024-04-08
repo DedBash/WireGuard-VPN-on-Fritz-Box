@@ -1,7 +1,9 @@
 # WireGuard-VPN-on-Fritz-Box
 Dieses Tutorial zeigt Ihnen anhand von Mullvad VPN, wie Sie ihre Fritz!Box mit einem Wireguard VPN Server verbinden und Ihr gesamtes Netzwerk über VPN weiterleiten können.
 
-## WireGuard datei Runterladen:
+## WireGuard datei Runterladen für Mullvad:
+Bei anderen VPN-Anbietern können die Konfigurationsschritte anders aussehen, aber die Einrichtung in der Fritz!Box bleibt gleich
+
 1. Rufen Sie den [WireGuard](https://mullvad.net/de/account/#/wireguard-config)-Konfigurationsdateigenerator auf.<br>
 2. Verwenden Sie Linux als Plattform.<br>
 3. Wählen Sie einen Standort.<br>
