@@ -7,7 +7,7 @@ This tutorial uses Mullvad VPN to show you how to connect yout Fritz!Box to a Wi
 ## Get your wireguard file for Mullvad:
 For other VPN providers, the configuration steps may be different but the setup in the Fritz!Box remains the same<br>
 
-1. Go to the [WireGuard](https://mullvad.net/de/account/#/wireguard-config) configuration file generator.<br>
+1. Go to the [WireGuard](https://mullvad.net/en/account/wireguard-config) configuration file generator.
 2. Use Linux as Platform.<br>
 3. Select a Location.<br>
 4. Click on Download zip archive and save it to your computer.<br>
@@ -30,12 +30,8 @@ For other VPN providers, the configuration steps may be different but the setup 
 ![image](https://user-images.githubusercontent.com/79027536/236583763-4d1687e1-21b9-433a-8a64-3311d2bad684.png)
 
 ## Info:
-If you see this screen, check again if you have internet and if you are registered at myFritz , and then reload the page. 
+If you see this screen, check again if you have internet and if you are registered at myFritz , and then reload the page.
 ![image](https://user-images.githubusercontent.com/79027536/236584344-a9027a75-f8de-4d4a-994e-9fd7f44419f7.png)
 
 ## Test:
 I have tested this with a Fritz!Box 6850 LTE with firmware 7.51 but it also works with all other Fritz!Boxes that support VPN (WireGuard).
-
-
-
-

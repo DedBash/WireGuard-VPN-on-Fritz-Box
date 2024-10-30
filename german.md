@@ -4,7 +4,7 @@ Dieses Tutorial zeigt Ihnen anhand von Mullvad VPN, wie Sie ihre Fritz!Box mit e
 ## WireGuard datei Runterladen für Mullvad:
 Bei anderen VPN-Anbietern können die Konfigurationsschritte anders aussehen, aber die Einrichtung in der Fritz!Box bleibt gleich
 
-1. Rufen Sie den [WireGuard](https://mullvad.net/de/account/#/wireguard-config)-Konfigurationsdateigenerator auf.<br>
+1. Rufen Sie den [WireGuard](https://mullvad.net/de/account/wireguard-config)-Konfigurationsdateigenerator auf.
 2. Verwenden Sie Linux als Plattform.<br>
 3. Wählen Sie einen Standort.<br>
 4. Klicken Sie auf Download zip archive und speichern Sie es auf Ihrem Computer.<br>
@@ -26,8 +26,8 @@ Bei anderen VPN-Anbietern können die Konfigurationsschritte anders aussehen, ab
 ![image](https://user-images.githubusercontent.com/79027536/236585074-9e301c4d-70e4-452d-836f-25a8d1ef8094.png)
 ![image](https://user-images.githubusercontent.com/79027536/236586374-39ffffc1-07af-400d-a658-c3aaf6d70aa2.png)
 
-## INFO: 
-Wenn Sie diesen Bildschirm sehen, überprüfen Sie noch einmal, ob Sie Internet haben und bei myFritz registriert sind, und laden Sie die Seite dann neu. 
+## INFO:
+Wenn Sie diesen Bildschirm sehen, überprüfen Sie noch einmal, ob Sie Internet haben und bei myFritz registriert sind, und laden Sie die Seite dann neu.
 ![image](https://user-images.githubusercontent.com/79027536/236620526-502ce7ba-0468-499b-b19f-8de2d2e8803a.png)
 
 
@@ -35,7 +35,3 @@ Wenn Sie diesen Bildschirm sehen, überprüfen Sie noch einmal, ob Sie Internet 
 
 ## Test:
 Ich habe das mit einer Fritz!Box 6850 LTE mit Firmware 7.51 getestet, aber es funktioniert auch mit allen anderen Fritz!Boxen, die VPN (WireGuard) unterstützen.
-
-
-
-
